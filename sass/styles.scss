@@ -107,6 +107,7 @@ a {
   }
 }
 
+//Este es el ejercicio que hicimos en clase con a[href]
 a[href$=".pdf"]::after{
   content:url(../assets/iconos/pdf.png);
   display:inline-block;
